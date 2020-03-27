@@ -177,3 +177,5 @@ C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migratio
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
