@@ -179,3 +179,5 @@ C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migratio
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayDateToCustomer.resources

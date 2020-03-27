@@ -188,6 +188,14 @@
     <Compile Include="Migrations\202003271722512_SetNameOfMembershipTypes.designer.cs">
       <DependentUpon>202003271722512_SetNameOfMembershipTypes.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202003271957155_AddBirthdateToCustomer.cs" />
+    <Compile Include="Migrations\202003271957155_AddBirthdateToCustomer.designer.cs">
+      <DependentUpon>202003271957155_AddBirthdateToCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202003272032184_AddBirthdayDateToCustomer.cs" />
+    <Compile Include="Migrations\202003272032184_AddBirthdayDateToCustomer.designer.cs">
+      <DependentUpon>202003272032184_AddBirthdayDateToCustomer.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\IdentityModel.cs" />
@@ -220,7 +228,9 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -277,6 +287,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202003271722512_SetNameOfMembershipTypes.resx">
       <DependentUpon>202003271722512_SetNameOfMembershipTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003271957155_AddBirthdateToCustomer.resx">
+      <DependentUpon>202003271957155_AddBirthdateToCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003272032184_AddBirthdayDateToCustomer.resx">
+      <DependentUpon>202003272032184_AddBirthdayDateToCustomer.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
