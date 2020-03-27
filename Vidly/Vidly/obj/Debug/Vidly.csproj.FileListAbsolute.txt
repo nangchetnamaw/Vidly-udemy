@@ -181,3 +181,5 @@ C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migratio
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayDateToCustomer.resources
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
