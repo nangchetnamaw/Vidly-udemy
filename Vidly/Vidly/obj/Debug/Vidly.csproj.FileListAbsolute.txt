@@ -173,3 +173,5 @@ C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\bin\Microsoft.Owin.Secur
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
