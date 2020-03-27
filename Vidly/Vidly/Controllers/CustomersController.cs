@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Vidly.Models;
+using System.Data.Entity;
 
 namespace Vidly.Controllers
 {
@@ -35,5 +36,6 @@ namespace Vidly.Controllers
             };
         }
 
+        
     }
 }
