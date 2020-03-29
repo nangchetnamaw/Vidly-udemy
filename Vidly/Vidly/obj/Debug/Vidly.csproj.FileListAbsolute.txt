@@ -183,3 +183,11 @@ C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migratio
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayDateToCustomer.resources
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
 C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\bin\AutoMapper.dll
+C:\Users\chetna.mongmaw\Desktop\Vidly-udemy\Vidly\Vidly\bin\AutoMapper.xml
